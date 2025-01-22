@@ -1,0 +1,15 @@
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wpfContainer\wpfContainer\bin\Debug\wpfContainer.exe.config
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wpfContainer\wpfContainer\bin\Debug\wpfContainer.exe
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wpfContainer\wpfContainer\bin\Debug\wpfContainer.pdb
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wpfContainer\wpfContainer\obj\Debug\wpfContainer.csproj.AssemblyReference.cache
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wpfContainer\wpfContainer\obj\Debug\MainWindow.g.cs
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wpfContainer\wpfContainer\obj\Debug\App.g.cs
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wpfContainer\wpfContainer\obj\Debug\wpfContainer_MarkupCompile.cache
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wpfContainer\wpfContainer\obj\Debug\wpfContainer_MarkupCompile.lref
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wpfContainer\wpfContainer\obj\Debug\MainWindow.baml
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wpfContainer\wpfContainer\obj\Debug\wpfContainer.g.resources
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wpfContainer\wpfContainer\obj\Debug\wpfContainer.Properties.Resources.resources
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wpfContainer\wpfContainer\obj\Debug\wpfContainer.csproj.GenerateResource.cache
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wpfContainer\wpfContainer\obj\Debug\wpfContainer.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wpfContainer\wpfContainer\obj\Debug\wpfContainer.exe
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wpfContainer\wpfContainer\obj\Debug\wpfContainer.pdb

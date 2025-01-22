@@ -1,0 +1,31 @@
+﻿<Window x:Class="wpfTemplate.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:wpfTemplate"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="300">
+    <Window.Resources>
+        <Style TargetType="Button">
+            <Setter Property="Height" Value="50"/>
+        </Style>
+        <ControlTemplate TargetType="Button" x:Key="tm_bu_1">
+            <Border Background="LightGreen"
+                    CornerRadius="15">
+                <StackPanel>
+                    <Label Content="11111" Background="{TemplateBinding Background}"/>
+                    <Label Content="{TemplateBinding Content}"/>
+                </StackPanel>
+            </Border>
+        </ControlTemplate>
+    </Window.Resources>
+    <StackPanel>
+        <Button Content="1"/>
+        <Button Content="2" Template="{StaticResource tm_bu_1}" 
+                Background="Pink" Margin="5 5 5 0"/>
+        <Button Content="3"/>
+        <Button Content="4"/>
+        <Button Content="5"/>
+    </StackPanel>
+</Window>

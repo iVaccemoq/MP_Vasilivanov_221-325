@@ -1,0 +1,21 @@
+﻿<Window x:Class="wpfWindowResources.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:wpfWindowResources"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="300">
+    <Window.Resources>
+        <SolidColorBrush x:Key="color_play" Color="LightSeaGreen"/>
+        <ContentControl x:Key="content_play" Content="Play!"/>
+    </Window.Resources>
+    <StackPanel>
+        <Button Content="1" Background="LightBlue"/>
+        <Button Content="{StaticResource content_play}" 
+                Background="{StaticResource color_play}"/>
+        <Button Content="{DynamicResource content_play}" 
+                Background="{DynamicResource color_play}"/>
+        <Button Content="Click me" Height="50" Click="Button_Click"/>
+    </StackPanel>
+</Window>

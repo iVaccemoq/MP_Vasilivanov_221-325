@@ -1,0 +1,17 @@
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaGraphicSinCos\wfaGraphicSinCos\bin\Debug\net8.0-windows\wfaGraphicSinCos.exe
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaGraphicSinCos\wfaGraphicSinCos\bin\Debug\net8.0-windows\wfaGraphicSinCos.deps.json
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaGraphicSinCos\wfaGraphicSinCos\bin\Debug\net8.0-windows\wfaGraphicSinCos.runtimeconfig.json
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaGraphicSinCos\wfaGraphicSinCos\bin\Debug\net8.0-windows\wfaGraphicSinCos.dll
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaGraphicSinCos\wfaGraphicSinCos\bin\Debug\net8.0-windows\wfaGraphicSinCos.pdb
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaGraphicSinCos\wfaGraphicSinCos\obj\Debug\net8.0-windows\wfaGraphicSinCos.Form1.resources
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaGraphicSinCos\wfaGraphicSinCos\obj\Debug\net8.0-windows\wfaGraphicSinCos.csproj.GenerateResource.cache
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaGraphicSinCos\wfaGraphicSinCos\obj\Debug\net8.0-windows\wfaGraphicSinCos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaGraphicSinCos\wfaGraphicSinCos\obj\Debug\net8.0-windows\wfaGraphicSinCos.AssemblyInfoInputs.cache
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaGraphicSinCos\wfaGraphicSinCos\obj\Debug\net8.0-windows\wfaGraphicSinCos.AssemblyInfo.cs
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaGraphicSinCos\wfaGraphicSinCos\obj\Debug\net8.0-windows\wfaGraphicSinCos.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaGraphicSinCos\wfaGraphicSinCos\obj\Debug\net8.0-windows\wfaGraphicSinCos.sourcelink.json
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaGraphicSinCos\wfaGraphicSinCos\obj\Debug\net8.0-windows\wfaGraphicSinCos.dll
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaGraphicSinCos\wfaGraphicSinCos\obj\Debug\net8.0-windows\refint\wfaGraphicSinCos.dll
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaGraphicSinCos\wfaGraphicSinCos\obj\Debug\net8.0-windows\wfaGraphicSinCos.pdb
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaGraphicSinCos\wfaGraphicSinCos\obj\Debug\net8.0-windows\wfaGraphicSinCos.genruntimeconfig.cache
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaGraphicSinCos\wfaGraphicSinCos\obj\Debug\net8.0-windows\ref\wfaGraphicSinCos.dll

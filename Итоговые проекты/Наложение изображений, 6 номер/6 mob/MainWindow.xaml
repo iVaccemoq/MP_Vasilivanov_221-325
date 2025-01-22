@@ -1,0 +1,40 @@
+﻿<Window x:Class="nomer_6.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        mc:Ignorable="d"
+        Title="Image Overlay App" Height="600" Width="800">
+
+    <Grid>
+        <!-- Панель для управления изображениями -->
+        <DockPanel Margin="5">
+            <StackPanel DockPanel.Dock="Left" Width="150" HorizontalAlignment="Stretch">
+                <TextBlock Text="Изображения:" Margin="5"/>
+                <ListBox Name="ImageList" Margin="5" Height="150"/>
+
+                <Button Content="Добавить картинку" Name="AddImageButton" Margin="5" Click="AddImageButton_Click"/>
+                <Button Content="Удалить картинку" Name="RemoveImageButton" Margin="5" Click="RemoveImageButton_Click"/>
+
+                <TextBlock Text="Прозрачность:" Margin="5"/>
+                <Slider Name="OpacitySlider" Minimum="0" Maximum="1" Value="1" TickFrequency="0.1" Margin="5" ValueChanged="OpacitySlider_ValueChanged"/>
+
+
+            </StackPanel>
+
+            <!-- Полотно для изображения -->
+            <Grid Background="LightGray">
+                <Canvas Name="ImageCanvas" Background="White" 
+                MouseDown="ImageCanvas_MouseDown" 
+                MouseMove="ImageCanvas_MouseMove" 
+                MouseUp="ImageCanvas_MouseUp"
+                MouseWheel="ImageCanvas_MouseWheel"
+                MouseLeftButtonDown="ImageCanvas_MouseLeftButtonDown">    
+                    <!-- Круг прозрачности -->
+                    <Ellipse Name="TransparencyCircle" Width="100" Height="100" Fill="Transparent" Stroke="Black" Visibility="Collapsed"/>
+                </Canvas>
+
+            </Grid>
+        </DockPanel>
+    </Grid>
+</Window>

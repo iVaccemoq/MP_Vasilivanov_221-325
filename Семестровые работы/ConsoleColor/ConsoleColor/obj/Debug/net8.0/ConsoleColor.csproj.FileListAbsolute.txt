@@ -1,0 +1,15 @@
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\ConsoleColor\ConsoleColor\bin\Debug\net8.0\ConsoleColor.exe
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\ConsoleColor\ConsoleColor\bin\Debug\net8.0\ConsoleColor.deps.json
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\ConsoleColor\ConsoleColor\bin\Debug\net8.0\ConsoleColor.runtimeconfig.json
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\ConsoleColor\ConsoleColor\bin\Debug\net8.0\ConsoleColor.dll
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\ConsoleColor\ConsoleColor\bin\Debug\net8.0\ConsoleColor.pdb
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\ConsoleColor\ConsoleColor\obj\Debug\net8.0\ConsoleColor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\ConsoleColor\ConsoleColor\obj\Debug\net8.0\ConsoleColor.AssemblyInfoInputs.cache
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\ConsoleColor\ConsoleColor\obj\Debug\net8.0\ConsoleColor.AssemblyInfo.cs
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\ConsoleColor\ConsoleColor\obj\Debug\net8.0\ConsoleColor.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\ConsoleColor\ConsoleColor\obj\Debug\net8.0\ConsoleColor.sourcelink.json
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\ConsoleColor\ConsoleColor\obj\Debug\net8.0\ConsoleColor.dll
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\ConsoleColor\ConsoleColor\obj\Debug\net8.0\refint\ConsoleColor.dll
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\ConsoleColor\ConsoleColor\obj\Debug\net8.0\ConsoleColor.pdb
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\ConsoleColor\ConsoleColor\obj\Debug\net8.0\ConsoleColor.genruntimeconfig.cache
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\ConsoleColor\ConsoleColor\obj\Debug\net8.0\ref\ConsoleColor.dll

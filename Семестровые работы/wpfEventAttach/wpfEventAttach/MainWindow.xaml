@@ -1,0 +1,28 @@
+﻿<Window x:Class="wpfEventAttach.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:wpfEventAttach"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="300
+        ">
+    <DockPanel>
+        <StackPanel DockPanel.Dock="Top"
+                    Margin="5">
+            <Button Content="Кнопка 1" Click="Button_Click"/>
+            <Button Content="Кнопка 2" Click="Button_Click"/>
+            <Button Content="Кнопка 3" Click="Button_Click"/>
+            <Button Content="Кнопка 4" Click="Button_Click"/>
+        </StackPanel>
+        <StackPanel DockPanel.Dock="Top"
+                    Margin="5 0"
+                    ButtonBase.Click="Button_Click">
+            <Button Content="Кнопка A"/>
+            <Button Content="Кнопка B"/>
+            <Button Content="Кнопка C"/>
+            <Button Content="Кнопка D"/>
+        </StackPanel>
+        <ListBox x:Name="lblogs"/>
+    </DockPanel>
+</Window>

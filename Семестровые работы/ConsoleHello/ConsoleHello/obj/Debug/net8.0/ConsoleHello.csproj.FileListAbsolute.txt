@@ -1,0 +1,15 @@
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\ConsoleHello\ConsoleHello\bin\Debug\net8.0\ConsoleHello.exe
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\ConsoleHello\ConsoleHello\bin\Debug\net8.0\ConsoleHello.deps.json
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\ConsoleHello\ConsoleHello\bin\Debug\net8.0\ConsoleHello.runtimeconfig.json
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\ConsoleHello\ConsoleHello\bin\Debug\net8.0\ConsoleHello.dll
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\ConsoleHello\ConsoleHello\bin\Debug\net8.0\ConsoleHello.pdb
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\ConsoleHello\ConsoleHello\obj\Debug\net8.0\ConsoleHello.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\ConsoleHello\ConsoleHello\obj\Debug\net8.0\ConsoleHello.AssemblyInfoInputs.cache
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\ConsoleHello\ConsoleHello\obj\Debug\net8.0\ConsoleHello.AssemblyInfo.cs
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\ConsoleHello\ConsoleHello\obj\Debug\net8.0\ConsoleHello.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\ConsoleHello\ConsoleHello\obj\Debug\net8.0\ConsoleHello.sourcelink.json
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\ConsoleHello\ConsoleHello\obj\Debug\net8.0\ConsoleHello.dll
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\ConsoleHello\ConsoleHello\obj\Debug\net8.0\refint\ConsoleHello.dll
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\ConsoleHello\ConsoleHello\obj\Debug\net8.0\ConsoleHello.pdb
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\ConsoleHello\ConsoleHello\obj\Debug\net8.0\ConsoleHello.genruntimeconfig.cache
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\ConsoleHello\ConsoleHello\obj\Debug\net8.0\ref\ConsoleHello.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "controlPuzzle", "controlPuzzle\controlPuzzle.csproj", "{91622DC4-9587-40A5-9570-409D3316DD28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91622DC4-9587-40A5-9570-409D3316DD28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91622DC4-9587-40A5-9570-409D3316DD28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91622DC4-9587-40A5-9570-409D3316DD28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91622DC4-9587-40A5-9570-409D3316DD28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {92A363E4-CBA4-454C-8D56-C31C2BE6DB08}
+	EndGlobalSection
+EndGlobal

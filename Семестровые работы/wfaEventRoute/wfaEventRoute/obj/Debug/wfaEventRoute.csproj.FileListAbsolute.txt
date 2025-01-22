@@ -1,0 +1,15 @@
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaEventRoute\wfaEventRoute\bin\Debug\wfaEventRoute.exe.config
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaEventRoute\wfaEventRoute\bin\Debug\wfaEventRoute.exe
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaEventRoute\wfaEventRoute\bin\Debug\wfaEventRoute.pdb
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaEventRoute\wfaEventRoute\obj\Debug\wfaEventRoute.csproj.AssemblyReference.cache
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaEventRoute\wfaEventRoute\obj\Debug\MainWindow.g.cs
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaEventRoute\wfaEventRoute\obj\Debug\App.g.cs
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaEventRoute\wfaEventRoute\obj\Debug\wfaEventRoute_MarkupCompile.cache
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaEventRoute\wfaEventRoute\obj\Debug\wfaEventRoute_MarkupCompile.lref
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaEventRoute\wfaEventRoute\obj\Debug\MainWindow.baml
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaEventRoute\wfaEventRoute\obj\Debug\wfaEventRoute.g.resources
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaEventRoute\wfaEventRoute\obj\Debug\wfaEventRoute.Properties.Resources.resources
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaEventRoute\wfaEventRoute\obj\Debug\wfaEventRoute.csproj.GenerateResource.cache
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaEventRoute\wfaEventRoute\obj\Debug\wfaEventRoute.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaEventRoute\wfaEventRoute\obj\Debug\wfaEventRoute.exe
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaEventRoute\wfaEventRoute\obj\Debug\wfaEventRoute.pdb

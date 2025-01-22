@@ -1,0 +1,17 @@
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaEvent\wfaEvent\bin\Debug\net8.0-windows\wfaEvent.exe
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaEvent\wfaEvent\bin\Debug\net8.0-windows\wfaEvent.deps.json
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaEvent\wfaEvent\bin\Debug\net8.0-windows\wfaEvent.runtimeconfig.json
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaEvent\wfaEvent\bin\Debug\net8.0-windows\wfaEvent.dll
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaEvent\wfaEvent\bin\Debug\net8.0-windows\wfaEvent.pdb
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaEvent\wfaEvent\obj\Debug\net8.0-windows\wfaEvent.Form1.resources
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaEvent\wfaEvent\obj\Debug\net8.0-windows\wfaEvent.csproj.GenerateResource.cache
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaEvent\wfaEvent\obj\Debug\net8.0-windows\wfaEvent.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaEvent\wfaEvent\obj\Debug\net8.0-windows\wfaEvent.AssemblyInfoInputs.cache
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaEvent\wfaEvent\obj\Debug\net8.0-windows\wfaEvent.AssemblyInfo.cs
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaEvent\wfaEvent\obj\Debug\net8.0-windows\wfaEvent.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaEvent\wfaEvent\obj\Debug\net8.0-windows\wfaEvent.sourcelink.json
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaEvent\wfaEvent\obj\Debug\net8.0-windows\wfaEvent.dll
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaEvent\wfaEvent\obj\Debug\net8.0-windows\refint\wfaEvent.dll
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaEvent\wfaEvent\obj\Debug\net8.0-windows\wfaEvent.pdb
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaEvent\wfaEvent\obj\Debug\net8.0-windows\wfaEvent.genruntimeconfig.cache
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaEvent\wfaEvent\obj\Debug\net8.0-windows\ref\wfaEvent.dll

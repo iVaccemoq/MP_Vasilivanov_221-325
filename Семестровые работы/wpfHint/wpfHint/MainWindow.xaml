@@ -1,0 +1,28 @@
+﻿<Window x:Class="wpfHint.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:wpfHint"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="300">
+    <StackPanel>
+        <Button Content="Кнопка 1" ToolTip="Подсказка 1"/>
+        <Button Content="Кнопка 2" ToolTip="Подсказка 2"/>
+        <Button Content="Кнопка 3">
+            <Button.ToolTip>
+                <StackPanel>
+                    <Label Content="Подсказка 3" FontSize="20"/>
+                    <Label Content="bbbbb" Background="LightCoral"/>
+                    <Image Source="/Resources/sticker.png" Height="50"/>
+                </StackPanel>
+                
+            </Button.ToolTip>
+        </Button>
+        <Button Content="Текущее время" ToolTip="-" x:Name="buTime"
+                ToolTipOpening="Button_ToolTipOpening"/>
+        <TextBox Text="Привет Hello" SpellCheck.IsEnabled="True"/>
+        <TextBox Text="Привет Hello" SpellCheck.IsEnabled="True"
+                 Language="en"/>
+    </StackPanel>
+</Window>

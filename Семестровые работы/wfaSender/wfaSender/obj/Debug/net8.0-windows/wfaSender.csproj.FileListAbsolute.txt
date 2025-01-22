@@ -1,0 +1,17 @@
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaSender\wfaSender\bin\Debug\net8.0-windows\wfaSender.exe
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaSender\wfaSender\bin\Debug\net8.0-windows\wfaSender.deps.json
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaSender\wfaSender\bin\Debug\net8.0-windows\wfaSender.runtimeconfig.json
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaSender\wfaSender\bin\Debug\net8.0-windows\wfaSender.dll
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaSender\wfaSender\bin\Debug\net8.0-windows\wfaSender.pdb
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaSender\wfaSender\obj\Debug\net8.0-windows\wfaSender.Form1.resources
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaSender\wfaSender\obj\Debug\net8.0-windows\wfaSender.csproj.GenerateResource.cache
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaSender\wfaSender\obj\Debug\net8.0-windows\wfaSender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaSender\wfaSender\obj\Debug\net8.0-windows\wfaSender.AssemblyInfoInputs.cache
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaSender\wfaSender\obj\Debug\net8.0-windows\wfaSender.AssemblyInfo.cs
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaSender\wfaSender\obj\Debug\net8.0-windows\wfaSender.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaSender\wfaSender\obj\Debug\net8.0-windows\wfaSender.sourcelink.json
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaSender\wfaSender\obj\Debug\net8.0-windows\wfaSender.dll
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaSender\wfaSender\obj\Debug\net8.0-windows\refint\wfaSender.dll
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaSender\wfaSender\obj\Debug\net8.0-windows\wfaSender.pdb
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaSender\wfaSender\obj\Debug\net8.0-windows\wfaSender.genruntimeconfig.cache
+C:\Users\Кирилл\Desktop\5_семестр\Mobile\wfaSender\wfaSender\obj\Debug\net8.0-windows\ref\wfaSender.dll

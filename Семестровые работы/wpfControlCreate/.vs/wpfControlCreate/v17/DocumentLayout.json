@@ -1,0 +1,61 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\Desktop\\5_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Mobile\\wpfControlCreate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B873BE88-7F16-429D-919F-BCCF36F91F92}|wpfControlCreate\\wpfControlCreate.csproj|c:\\users\\\u043A\u0438\u0440\u0438\u043B\u043B\\desktop\\5_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\mobile\\wpfcontrolcreate\\wpfcontrolcreate\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B873BE88-7F16-429D-919F-BCCF36F91F92}|wpfControlCreate\\wpfControlCreate.csproj|solutionrelative:wpfcontrolcreate\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B873BE88-7F16-429D-919F-BCCF36F91F92}|wpfControlCreate\\wpfControlCreate.csproj|c:\\users\\\u043A\u0438\u0440\u0438\u043B\u043B\\desktop\\5_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\mobile\\wpfcontrolcreate\\wpfcontrolcreate\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B873BE88-7F16-429D-919F-BCCF36F91F92}|wpfControlCreate\\wpfControlCreate.csproj|solutionrelative:wpfcontrolcreate\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\Desktop\\5_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Mobile\\wpfControlCreate\\wpfControlCreate\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "wpfControlCreate\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\Desktop\\5_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Mobile\\wpfControlCreate\\wpfControlCreate\\MainWindow.xaml",
+              "RelativeToolTip": "wpfControlCreate\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-23T08:03:48.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\Desktop\\5_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Mobile\\wpfControlCreate\\wpfControlCreate\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "wpfControlCreate\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Users\\\u041A\u0438\u0440\u0438\u043B\u043B\\Desktop\\5_\u0441\u0435\u043C\u0435\u0441\u0442\u0440\\Mobile\\wpfControlCreate\\wpfControlCreate\\MainWindow.xaml.cs",
+              "RelativeToolTip": "wpfControlCreate\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwCgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-23T08:03:44.106Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

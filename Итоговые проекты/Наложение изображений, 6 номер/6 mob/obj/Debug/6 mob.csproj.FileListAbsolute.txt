@@ -1,0 +1,15 @@
+C:\Users\gul\source\repos\mobile\6 mob\6 mob\obj\Debug\6 mob.csproj.AssemblyReference.cache
+C:\Users\gul\source\repos\mobile\6 mob\6 mob\obj\Debug\6 mob.csproj.SuggestedBindingRedirects.cache
+C:\Users\gul\source\repos\mobile\6 mob\6 mob\obj\Debug\MainWindow.baml
+C:\Users\gul\source\repos\mobile\6 mob\6 mob\obj\Debug\MainWindow.g.cs
+C:\Users\gul\source\repos\mobile\6 mob\6 mob\obj\Debug\App.g.cs
+C:\Users\gul\source\repos\mobile\6 mob\6 mob\obj\Debug\6 mob_MarkupCompile.cache
+C:\Users\gul\source\repos\mobile\6 mob\6 mob\obj\Debug\6 mob.g.resources
+C:\Users\gul\source\repos\mobile\6 mob\6 mob\obj\Debug\_6_mob.Properties.Resources.resources
+C:\Users\gul\source\repos\mobile\6 mob\6 mob\obj\Debug\6 mob.csproj.GenerateResource.cache
+C:\Users\gul\source\repos\mobile\6 mob\6 mob\obj\Debug\6 mob.csproj.CoreCompileInputs.cache
+C:\Users\gul\source\repos\mobile\6 mob\6 mob\bin\Debug\6 mob.exe.config
+C:\Users\gul\source\repos\mobile\6 mob\6 mob\bin\Debug\6 mob.exe
+C:\Users\gul\source\repos\mobile\6 mob\6 mob\bin\Debug\6 mob.pdb
+C:\Users\gul\source\repos\mobile\6 mob\6 mob\obj\Debug\6 mob.exe
+C:\Users\gul\source\repos\mobile\6 mob\6 mob\obj\Debug\6 mob.pdb
